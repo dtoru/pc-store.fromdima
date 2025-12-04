@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>PC Store</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Магазин збірок ПК</h1>
+</header>
+
+<section class="catalog">
+  <div class="card">
+    <img src="images/pc1.png" alt="PC 1">
+    <h3>Біла збірка RTX</h3>
+    <p>Потужний і стильний ПК.</p>
+  </div>
+
+  <div class="card">
+    <img src="images/pc2.png" alt="PC 2">
+    <h3>Ultra White RGB</h3>
+    <p>Максимальна продуктивність.</p>
+  </div>
+
+  <div class="card">
+    <img src="images/pc3.png" alt="PC 3">
+    <h3>Black RGB ROG</h3>
+    <p>Ігрова машина преміум класу.</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Всі права захищені</p>
+  <p>Підтримка: bogachovdmytroKI243@gmail.com</p>
+</footer>
+</body>
+</html>
